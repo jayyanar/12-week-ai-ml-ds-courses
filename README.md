@@ -5,7 +5,13 @@
 
 Welcome to the AI/ML Career Exploration Course! This year-long journey is designed to help you explore and build a career in Artificial Intelligence and Machine Learning. Whether you are starting fresh or enhancing your skills, this course will guide you step-by-step, from the basics to advanced topics, with a clear path and resources.
 
-## Course Overview
+## Key Learning Approach: Compound Learning
+
+> **"Compound learning is the process of building knowledge and skills gradually over time, allowing each learning experience to build on the last, creating a powerful momentum in your career."**
+
+The courses are curated to follow the principle of compound learning, which emphasizes incremental progress and consistent effort. By following this structured approach, you'll not only accumulate knowledge but also deepen your understanding, making you proficient in AI/ML.
+
+## Course Overview - All Based on my Own experience.
 
 This program is divided into multiple levels, each containing carefully selected courses that will progressively build your skills in AI/ML. Follow the suggested duration for each level to stay on track and make the most of your learning experience.
 
@@ -24,11 +30,7 @@ This program is divided into multiple levels, each containing carefully selected
 | **Advanced - Level 300** | Natural Language Processing Specialization | Pursue as per interest | [Enroll](https://www.deeplearning.ai/courses/natural-language-processing-specialization/) |
 | **Advanced - Level 300** | TensorFlow Developer Professional Certificate | Pursue as per interest | [Enroll](https://www.deeplearning.ai/courses/tensorflow-developer-professional-certificate/) |
 
-## Key Learning Approach: Compound Learning
 
-> **"Compound learning is the process of building knowledge and skills gradually over time, allowing each learning experience to build on the last, creating a powerful momentum in your career."**
-
-The courses are curated to follow the principle of compound learning, which emphasizes incremental progress and consistent effort. By following this structured approach, you'll not only accumulate knowledge but also deepen your understanding, making you proficient in AI/ML.
 
 ## Getting Started
 
