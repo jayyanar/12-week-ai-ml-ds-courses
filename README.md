@@ -1,52 +1,79 @@
-# AI/ML Career Exploration Course
 
-> **"Learning is not attained by chance, it must be sought for with ardor and attended to with diligence."**  
-> — Abigail Adams
+# Module 3: Understanding the AI / GenAI / Era of Transformer - 2 Weeks
 
-Welcome to the AI/ML Career Exploration Course! This year-long journey is designed to help you explore and build a career in Artificial Intelligence and Machine Learning. Whether you are starting fresh or enhancing your skills, this course will guide you step-by-step, from the basics to advanced topics, with a clear path and resources.
+## Overview
 
-## Key Learning Approach: Compound Learning
+This module provides an in-depth understanding of Generative AI (GenAI) and Transformer models. It covers the selection of models, key parameters, and advanced techniques such as pretraining, finetuning, and retrieval-augmented generation (RAG). The module also explores industry use cases to illustrate practical applications.
 
-> **"Compound learning is the process of building knowledge and skills gradually over time, allowing each learning experience to build on the last, creating a powerful momentum in your career."**
+## Topics Covered and Key Takeaways
 
-The courses are curated to follow the principle of compound learning, which emphasizes incremental progress and consistent effort. By following this structured approach, you'll not only accumulate knowledge but also deepen your understanding, making you proficient in AI/ML.
+| Day    | Topics Covered                               | Key Takeaways                                                                 |
+|--------|----------------------------------------------|--------------------------------------------------------------------------------|
+| Day 1  | Introduction to GenAI and Transformer Models | Understand the fundamentals of GenAI and Transformer models. Learn about their architectures and applications. |
+| Day 2  | How to Select the Model                      | Learn criteria for choosing appropriate models based on use cases and requirements. |
+| Day 3  | Model Parameters                             | Explore different parameters that affect model performance and how to tune them. |
+| Day 4  | Pretraining, Finetuning, RAG                  | Gain insights into advanced techniques for improving model performance and adaptability. |
+| Day 5  | Industry Use Cases                           | Analyze real-world applications and case studies to see how GenAI and Transformer models are used in various industries. |
 
-## Course Overview - All Based on my Own experience.
+## Exercise Ideas for Students
 
-This program is divided into multiple levels, each containing carefully selected courses that will progressively build your skills in AI/ML. Follow the suggested duration for each level to stay on track and make the most of your learning experience.
+1. **Model Selection Exercise**
+   - **Objective:** Choose a suitable Transformer model for a given use case from a provided list of models.
+   - **Instructions:** Review the provided use case, evaluate the characteristics of each model, and justify your choice in a brief report.
+   - **Tools:** Google Colab for implementation and documentation.
 
-### Course Plan
+2. **Parameter Tuning Challenge**
+   - **Objective:** Optimize a Transformer model's parameters for a given dataset.
+   - **Instructions:** Use the provided dataset to adjust model parameters and document the impact of different settings on model performance.
+   - **Tools:** Google Colab for model tuning and performance evaluation.
 
-| **Level** | **Course** | **Duration** | **Link** |
-|-----------|------------|--------------|----------|
-| **Python - Level 1** | Complete Python Bootcamp | 1 Month | [Enroll](https://www.udemy.com/course/complete-python-bootcamp/?couponCode=IND21PM) |
-| **Machine Learning - Level 100** | Machine Learning Specialization | 1 Month | [Enroll](https://www.deeplearning.ai/courses/machine-learning-specialization/) |
-| **Math and Data Science for ML - Level 200 (Optional)** | Mathematics for Machine Learning and Data Science Specialization | 1 Month | [Enroll](https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science-specialization/) |
-| **Data Engineering - Level 200** | Data Engineering | 1 Month | [Enroll](https://www.deeplearning.ai/courses/data-engineering/) |
-| **Deep Learning - Level 200** | Deep Learning Specialization | 1 Month | [Enroll](https://www.deeplearning.ai/courses/deep-learning-specialization/) |
-| **Python - Level 2 (Intermediate)** | Python for Data Science and Machine Learning Bootcamp | 2 Months | [Enroll](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/?couponCode=IND21PM) |
-| **Machine Learning A-Z - Level 200** | Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024] | 2 Months | [Enroll](https://www.udemy.com/course/machinelearning/?couponCode=IND21PM) |
-| **Deep Learning A-Z 2024 - Level 200** | Deep Learning A-Z 2024: Neural Networks, AI & ChatGPT Prize | 2 Months | [Enroll](https://www.udemy.com/course/deeplearning/?couponCode=IND21PM) |
-| **Advanced - Level 300** | Natural Language Processing Specialization | Pursue as per interest | [Enroll](https://www.deeplearning.ai/courses/natural-language-processing-specialization/) |
-| **Advanced - Level 300** | TensorFlow Developer Professional Certificate | Pursue as per interest | [Enroll](https://www.deeplearning.ai/courses/tensorflow-developer-professional-certificate/) |
+3. **Pretraining and Finetuning Simulation**
+   - **Objective:** Pretrain and finetune a Transformer model using a sample dataset.
+   - **Instructions:** Follow a step-by-step guide to pretrain the model on a large dataset and then finetune it for a specific task. Present the results and improvements.
+   - **Tools:** Google Colab for pretraining and finetuning tasks.
+
+## Assignment
+
+- **Due Date:** End of the 3rd week (Thursday)
+- **Description:** Create a comprehensive report and presentation on a GenAI use case. The report should cover model selection, parameter tuning, and results of pretraining and finetuning processes. Teams will present their findings at the end of the module week.
 
 
 
-## Getting Started
 
-1. **Commit to Your Learning:** Allocate regular time for study and practice. Consistency is key.
-2. **Enroll in the Courses:** Follow the links provided in the table above to enroll in each course.
-3. **Stay on Track:** Use the suggested durations to pace your learning journey.
-4. **Engage Actively:** Participate in course forums, complete hands-on projects, and apply what you learn.
-5. **Network:** Connect with other learners and professionals to exchange knowledge and insights.
+# Module 4: How to Leverage Cloud Platforms (Azure and GCP) for Machine Learning Workloads - 3 Weeks
 
-## Connect with DataOps Labs
+## Overview
 
-Stay connected and updated with the latest from DataOps Labs! Follow us on our social media channels:
+This module focuses on utilizing cloud platforms, specifically Azure and Google Cloud Platform (GCP), to handle machine learning workloads. It covers the various services and tools available on these platforms, strategies for deploying and scaling ML solutions, and best practices for cost management and optimization.
 
-- **LinkedIn:** [Ayyanar on LinkedIn](https://www.linkedin.com/in/jayyanar/)
-- **Website:** [My Blogging Website](https://dataopslabs.com)
-- **Twitter:** [@MeetAJ](https://x.com/meet_ayyanar)
-- **YouTube:** [Me on YouTube](https://www.youtube.com/@DataOpsLabs)
+## Topics Covered and Key Takeaways
 
-Let's embark on this exciting journey into the realm of AI and Machine Learning together!
+| Day    | Topics Covered                                       | Key Takeaways                                                                  |
+|--------|------------------------------------------------------|---------------------------------------------------------------------------------|
+| Day 1  | Introduction to Azure and GCP for ML Workloads       | Understand the cloud services offered by Azure and GCP for machine learning.    |
+| Day 2  | Azure Machine Learning Services                      | Explore Azure's ML services, including Azure Machine Learning Studio and its tools. |
+| Day 3  | GCP Machine Learning Services                        | Learn about GCP's ML services, including Vertex AI and its capabilities.        |
+| Day 4  | Deployment and Scaling Strategies                     | Study methods for deploying and scaling ML models on Azure and GCP.             |
+| Day 5  | Cost Management and Optimization                      | Understand best practices for managing costs and optimizing cloud resources.    |
+
+## Exercise Ideas for Students
+
+1. **Cloud Platform Comparison**
+   - **Objective:** Compare Azure and GCP for a given ML use case.
+   - **Instructions:** Evaluate the features, pricing, and performance of Azure and GCP for a specified ML application and present your findings.
+   - **Tools:** Google Colab for analysis, Azure, and GCP consoles for practical comparison.
+
+2. **Deployment Simulation**
+   - **Objective:** Deploy a sample ML model on Azure and GCP.
+   - **Instructions:** Follow step-by-step guides to deploy a model on both platforms and document the deployment process and challenges.
+   - **Tools:** Google Colab for deployment scripts, Azure, and GCP for deployment.
+
+3. **Cost Optimization Challenge**
+   - **Objective:** Optimize the cost of running an ML model on a chosen cloud platform.
+   - **Instructions:** Use cloud cost management tools to analyze and reduce expenses for running a model, and prepare a report with optimization strategies.
+   - **Tools:** Google Colab for cost calculations, Azure, and GCP cost management tools.
+
+## Assignment
+
+- **Due Date:** End of the 3rd week (Thursday)
+- **Description:** Develop and present a comprehensive cloud-based ML solution using either Azure or GCP. The assignment should include deployment strategies, cost management, and an evaluation of cloud services used. Teams will present their solutions at the end of the module week.
